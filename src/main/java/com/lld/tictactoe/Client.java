@@ -38,6 +38,7 @@ public class Client {
 
             */
             gameController.printBoard(game);
+
             gameController.makeMove(game);
 
         }
